@@ -63,16 +63,16 @@ to the `site_tags` variable. -->
   {% endunless %}{% endfor %}
 </div>
 ---
-# Escucha los Podcast en ivoox
-<a name="seccion1">ivoox</a>
+# Escucha los Podcast en Anchor
+<a name="seccion1">Anchor</a>
 <a href="#top">Volver al inicio</a>
 
-<iframe src="https://www.ivoox.com/player_es_podcast_383493_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe> 
+<iframe src="https://anchor.fm/member/embed/episodes/Mi-Band-2-mi-opinin--posibles-reemplazos-ahora-y-a-futuro-e1ql3c/a-a4dsr5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 # Redes Sociales
 <a name="seccion2">Twitter</a>
 <a href="#top">Volver al inicio</a>
-<a class="twitter-timeline" href="https://twitter.com/uGeekPodcast">Tweets by uGeekPodcast</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/ferr4n98">Tweets by Baldek</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a href="#top">Volver al inicio</a>
 
