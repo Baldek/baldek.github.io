@@ -67,7 +67,7 @@ to the `site_tags` variable. -->
 <a name="seccion1">Anchor</a>
 <a href="#top">Volver al inicio</a>
 
-<iframe src="https://anchor.fm/member/embed/episodes/Mi-Band-2-mi-opinin--posibles-reemplazos-ahora-y-a-futuro-e1ql3c/a-a4dsr5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/baldek/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 # Redes Sociales
 <a name="seccion2">Twitter</a>
